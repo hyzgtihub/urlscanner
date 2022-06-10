@@ -3,7 +3,7 @@
     "description": "scan urls from a csv",
     "require": {
         "php": ">=5.4.0",
-        "guzzlehttp/guzzle": "~5.0",
+        "guzzlehttp/guzzle": "~6.5",
         "league/csv": "^9.0@dev"
     },
     "require-dev": {
